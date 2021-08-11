@@ -1,0 +1,29 @@
+Region,Standard provisioned space,SSD provisioned space
+Iowa (us-central1),$0.04,$0.17 
+Oregon (us-west1),$0.04,$0.17 
+Los Angeles (us-west2),$0.048,$0.204
+Salt Lake City (us-west3),$0.048,$0.204
+Las Vegas (us-west4),$0.044,$0.187
+Northern Virginia (us-east4),$0.044,$0.187
+South Carolina (us-east1),$0.040,$0.170
+Montreal (northamerica-northeast1),$0.044,$0.187
+Toronto (northamerica-northeast2),$0.044,$0.187
+Sao Paulo (southamerica-east1),$0.060,$0.255
+Belgium (europe-west1),$0.040,$0.170
+Finland (europe-north1),$0.044,$0.187
+Frankfurt (europe-west3),$0.048,$0.204
+London (europe-west2),$0.048,$0.204
+Netherlands (europe-west4),$0.044,$0.187
+Zurich (europe-west6),$0.052,$0.221
+Warsaw (europe-central2),$0.048,$0.204
+Mumbai (asia-south1),$0.048,$0.204
+Delhi (asia-south1),$0.048,$0.204
+Singapore (asia-southeast1),$0.044,$0.187
+Jakarta (asia-southeast2),$0.052,$0.221
+Sydney (australia-southeast1),$0.054,$0.230
+Melbourne (australia-southeast2),$0.054,$0.230
+Hong Kong (asia-east2),$0.050,$0.187
+Taiwan (asia-east1),$0.040,$0.170
+Tokyo (asia-northeast1),$0.052,$0.221
+Osaka (asia-northeast2),$0.052,$0.221
+Seoul (asia-northeast2),$0.052,$0.221

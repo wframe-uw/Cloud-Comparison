@@ -1,0 +1,29 @@
+Region,General Purpose SSD gp2,Throughput Optimized HDD (st1)
+US East (Boston),$0.15,
+US East (Dallas),$0.15,
+US East (Houston),$0.15,
+US East (Miami),$0.15,
+US East (Philadelphia),$0.15,
+US East (N. Virginia),$0.1,$0.045
+US East (Ohio),$0.1,$0.045
+US West (Denver),$0.15,
+US West (Los Angeles),$0.12,$0.054
+US West (Northern California),$0.12,$0.054
+US West (Oregon),$0.10,$0.045
+Africa (Cape Town),$0.1309,$0.0595
+Asia Pacific (Hong Kong),$0.132,$0.0594
+Asia Pacific (Mumbai),$0.114,$0.051
+Asia Pacific (Osaka),$0.12,$0.054
+Asia Pacific (Seoul),$0.114,$0.051
+Asia Pacific (Singapore),$0.12,$0.054
+Asia Pacific (Sydney),$0.12,$0.054
+Asia Pacific (Tokyo),$0.12,$0.054
+Canada (Central),$0.11,$0.05
+Europe (Frankfurt),$0.119,$0.054
+Europe (Ireland),$0.11,$0.05
+Europe (London),$0.11,$0.05
+Europe (Milan),$0.1155,$0.0525
+Europe (Paris),$0.116,$0.053
+Europe (Stockholm),$0.1311,$0.0475
+Middle East (Bahrain),$0.121,$0.055
+South America (Sao Paulo),$0.19,$0.086
