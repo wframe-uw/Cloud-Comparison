@@ -1,0 +1,15 @@
+﻿cpu,vm,clock
+Cascade Lake,n2,2.8
+Cascade Lake,c2,3.1
+Cascade Lake,m2,2.5
+Cascade Lake,a2,2.2
+Skylake,e2,2
+Skylake,m1,2
+Skylake,n1,2
+Broadwell E7,m1,2.2
+Broadwell E5,e2,2.2
+Broadwell E6,n1,2.2
+Broadwell E7,n1,2.2
+Haswell,n1,2.3
+Ivy Bridge,n1,2.5
+Sandy Bridge,n1,2.6
